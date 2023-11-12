@@ -32,7 +32,7 @@ jobs:
         pip install -r requirements/prod.txt
         pip install -r requirements/test.txt
     - name: Run Black check
-      run: black --check
+      run: black --check .
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
