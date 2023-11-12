@@ -1,4 +1,4 @@
-![status CI/CD](https://github.com/1nkognit0/lyceum_django/actions/workflows/python-package.yml/badge.svg)
+![status CI/CD](https://github.com/1nkognit0/lyceum_django/actions/workflows/python-package.yml/badge.svg?event=push)
 
 ## Инструкцию по запуску проекта в dev-режиме
 
